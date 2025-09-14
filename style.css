@@ -12,10 +12,10 @@
 .product-card {
   border-radius: 20px;
   padding: 20px;
-/*     padding: 20px 20px 80px; */
+  padding: 20px 20px 80px; 
   width: 340px;
   height: 520px;
-/*     min-height: 520px; */
+  min-height: 520px; 
   background: linear-gradient(
     150deg,
     rgba(255, 255, 255, 1) 70%,
